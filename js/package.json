@@ -1,0 +1,15 @@
+{
+  "name": "js",
+  "version": "0.0.0",
+  "description": "",
+  "main": "find_service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "devDependencies": {
+    "chai": "~1.8.1"
+  }
+}

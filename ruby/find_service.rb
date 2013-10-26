@@ -1,7 +1,7 @@
 class FindService
-  
-  def run
-    [1,2]
-  end
+
+	def run
+		[1,2]
+	end
 
 end

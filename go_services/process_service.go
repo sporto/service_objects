@@ -8,7 +8,7 @@ import (
 type ProcessService struct {
 	FindService   FindServiceInt
 	input         int
-  found         []int
+	found         []int
 }
 
 func (c *ProcessService) Run(input int) []int {
